@@ -1,7 +1,7 @@
 # Adaptive Memory Matching Game (PS09), Cerevyn x Chitkara University Round 1 Technical Assessment
 
 **Candidate:** Paramveer Singh | **Roll number:** 2310991169 | **Branch:** CSE | **Problem ID:** PS09  
-**Demo video:** [ADD LINK]
+**Demo video:** https://youtu.be/jJq8zN9PetM
 
 ---
 
