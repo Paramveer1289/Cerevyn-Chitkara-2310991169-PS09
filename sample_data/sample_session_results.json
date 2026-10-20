@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "2026-10-19T10:15:30.123Z",
+    "seed": 42,
+    "difficulty": "easy",
+    "moves": 8,
+    "timeMs": 30000,
+    "pairs": 8,
+    "nextDifficulty": "medium",
+    "reason": "Impressive! You finished in 8 moves and 30s — well within the target of 10 moves / 40s. Moving up to Medium."
+  },
+  {
+    "timestamp": "2026-10-19T10:25:14.456Z",
+    "seed": 10101,
+    "difficulty": "hard",
+    "moves": 22,
+    "timeMs": 50000,
+    "pairs": 8,
+    "nextDifficulty": "medium",
+    "reason": "Tough round — you needed 22 moves (threshold: 20). Dropping to Medium to give you more time to look."
+  },
+  {
+    "timestamp": "2026-10-19T10:35:42.789Z",
+    "seed": 78912,
+    "difficulty": "medium",
+    "moves": 14,
+    "timeMs": 55000,
+    "pairs": 8,
+    "nextDifficulty": "medium",
+    "reason": "Good game! Your score (14 moves, 55s) is in the normal range for Medium. Difficulty stays the same."
+  },
+  {
+    "timestamp": "2026-10-19T10:48:05.321Z",
+    "seed": 99999,
+    "difficulty": "hard",
+    "moves": 9,
+    "timeMs": 35000,
+    "pairs": 8,
+    "nextDifficulty": "hard",
+    "reason": "Outstanding! You finished in 9 moves and 35s — you are already on the highest level (Hard)!"
+  }
+]
